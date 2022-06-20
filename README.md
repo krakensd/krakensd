@@ -1,6 +1,6 @@
 # Hi, I’m Robert Lembke
   - I’m interested in Healthcare IT and web development.
-  - I’m currently learning Full MERN Stack Development : 
+  - I’m currently working on Full MERN Stack Development : 
   - Languages: Python, JavaScript, HTML, CSS, SQL, Mongo, JSON, Typescript, EJS, DTL
   - Libraries and Frameworks: React, Express.js, Django, Jquery, Bootstrap, Semantic UI, Bulma
   - Databases and other: PostgreSQL, MongoDB, RESTful Routing, JSON API
