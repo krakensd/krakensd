@@ -13,7 +13,7 @@
 
 <!-- Your badges -->
 ![linkedin](https://www.linkedin.com/in/robert-lembke/)
-![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fshields.io%2Ftwitter%2Fhttps%3A%2F%2Fwww.twitter.com%2Fboblembke1)
+![Twitter]("https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw") class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 💼  Things that I'm currently working on: 
 * Front-End Web:computer: Development
@@ -92,7 +92,7 @@
 ![Cerner](https://img.shields.io/badge/Cerner-Cerner-green)
 ![Mysis Lab](https://img.shields.io/badge/Mysys%20Lab-Lab-brightgreen)
 ![eGate](https://img.shields.io/badge/eGate-Integration-red)
-![Twitter](https://img.shields.io/badge/dynamic/json?url=<https://www.Twittercom>&label=<TwitterL>&query=<$.DATA.SUBDATA>&color=<Red>&prefix=<PREFIX>&suffix=<SUFFIX>)
+![Twitter](https://img.shields.io/twitter/url?logo=Twitter&style=social&url=https%3A%2F%2Fshields.io%2Ftwitter)
 
 
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
