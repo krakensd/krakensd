@@ -14,9 +14,10 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>** I enjoy working within a TEAM environment to get things done! ** I'll be happy to meet you!:blush:
 
 <!-- Your badges -->
-![Linkedin](https://www.linkedin.com/in/robert-lembke/)
-![Twitter](https://www.twitter.com/BobLembke1)
-![e-Mail](robertmlembke@gmail.com)
+Please contact me with any of the below:
+- ![Linkedin](https://www.linkedin.com/in/robert-lembke/)
+- ![Twitter](https://www.twitter.com/BobLembke1)
+- ![e-Mail](robertmlembke@gmail.com)
 
 ### 💼  Things that I'm currently working on: 
 * Full MERN Stack:computer: Development
