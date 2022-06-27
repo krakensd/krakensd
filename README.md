@@ -2,24 +2,27 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-## Hi, I am Bob Lembke  
+## Hi, I am Bob Lembke      
 - I'm a **Full Stack Developer**: looking to solve Real-World problems in a team environment:earth_asia:. 
-- I have over <b> 17 years of experience </b> in Healthcare IT. Strategically minded, purposeful experienced leader – solid record driving major digital transformation initiatives. 
-- I have over ** 17 years in Healthcare IT ** and held positions as a Developer, Business/Technical Analyst, Team Lead, Project/Program Manager and Environment Architect.  I have experience with numerous EMR's including Epic, Cerner, Lastword, PCIS and others. 
+- I have over ** 17 years of experience </b> in Healthcare IT. Strategically minded, purposeful experienced leader – solid record driving major digital transformation initiatives. 
+- I have held positions as a Team Lead, Project/Program Manager, Integration Developer, Business/Technical Analyst, and Environment Architect.  I have experience with numerous EMR's including Epic, Cerner, Lastword, PCIS and others. 
 - I am extremely knowledgeable with the Inpatient and Outpatient workflows of Healthcare systems.  Including Transcription, Lab, Rad, Pathology and Billing.  But not limited to those modalities.
 - I have Real-World technical experience in healthcare applications and integrations at the enterprise level. 
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I enjoy working within a TEAM environment ** to get things done! ** I'll be happy to meet you!</b> :blush:</em>
+<br>
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>** I enjoy working within a TEAM environment to get things done! ** I'll be happy to meet you!:blush:
 
 <!-- Your badges -->
-![linkedin](https://www.linkedin.com/in/robert-lembke/)
+![Linkedin](https://www.linkedin.com/in/robert-lembke/)
 ![Twitter](https://www.twitter.com/BobLembke1)
-![eMail](robertmlembke@gmail.com)
+![e-Mail](robertmlembke@gmail.com)
 
 ### 💼  Things that I'm currently working on: 
-* Front-End Web:computer: Development
-* Expanding my knowledge with Udacity
-* Expanding my knowledge with distance learning at Harvard
+* Full MERN Stack:computer: Development
+* Python/Django
+* React.js
+* Expanding my knowledge with distance learning at Udacity
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
