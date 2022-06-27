@@ -11,13 +11,13 @@ githubUsername: 'Robert M. Lembke'
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-Hi, I am Robert M. Lembke! I'm a **Full Stack Developer**: looking to solve real-world problems in a team environment:earth_asia:. . I have over <b> 17 years of experience </b> in Healthcare IT. Strategically minded, purposeful experienced leader – solid record driving major digital transformation initiatives.  I have over 17 years in Healthcare IT and help positions as a Developer, Analyst, Team Lead, Project/Program Manager and Environment Architect.  I have experience with numerous EMR's including Epic, Cerner, Lastword, PCIS and others.  I am extremely knowledgeable with the Inpatient and Outpatient workflows.  Including Lab, Rad, Pathology, Transcription and Billing.  But not limited to those modalities
+Hi, I am Robert M. Lembke!   I'm a **Full Stack Developer**: looking to solve real-world problems in a team environment:earth_asia:. I have over <b> 17 years of experience </b> in Healthcare IT. Strategically minded, purposeful experienced leader – solid record driving major digital transformation initiatives.  I have over 17 years in Healthcare IT and help positions as a Developer, Analyst, Team Lead, Project/Program Manager and Environment Architect.  I have experience with numerous EMR's including Epic, Cerner, Lastword, PCIS and others.  I am extremely knowledgeable with the Inpatient and Outpatient workflows.  Including Lab, Rad, Pathology, Transcription and Billing.  But not limited to those modalities
 I have Real-world technical experience in healthcare applications and integrations at the enterprise level. 
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love working with different people **to get things done!** I'll be happy to meet you!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Linkedin](https://www.linkedin.com/in/robert-lembke/)
+(https://www.linkedin.com/in/robert-lembke/)
 
 
 
@@ -87,17 +87,7 @@ I have Real-world technical experience in healthcare applications and integratio
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-
-
-
-
-
-
-
-
-  
         
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
  <!-- icons -->
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
