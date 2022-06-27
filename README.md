@@ -13,7 +13,8 @@
 
 <!-- Your badges -->
 ![linkedin](https://www.linkedin.com/in/robert-lembke/)
-![Twitter]("https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw") class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![Twitter](https://www.twitter.com/BobLembke1)
+![eMail](robertmlembke@gmail.com)
 
 ### 💼  Things that I'm currently working on: 
 * Front-End Web:computer: Development
