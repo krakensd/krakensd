@@ -2,14 +2,18 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-Hi, I am Robert M. Lembke!   I'm a **Full Stack Developer**: looking to solve real-world problems in a team environment:earth_asia:. I have over <b> 17 years of experience </b> in Healthcare IT. Strategically minded, purposeful experienced leader – solid record driving major digital transformation initiatives.  I have over 17 years in Healthcare IT and help positions as a Developer, Analyst, Team Lead, Project/Program Manager and Environment Architect.  I have experience with numerous EMR's including Epic, Cerner, Lastword, PCIS and others.  I am extremely knowledgeable with the Inpatient and Outpatient workflows.  Including Lab, Rad, Pathology, Transcription and Billing.  But not limited to those modalities
-I have Real-world technical experience in healthcare applications and integrations at the enterprise level. 
+## Hi, I am Bob Lembke  
+- I'm a **Full Stack Developer**: looking to solve Real-World problems in a team environment:earth_asia:. 
+- I have over <b> 17 years of experience </b> in Healthcare IT. Strategically minded, purposeful experienced leader – solid record driving major digital transformation initiatives. 
+- I have over ** 17 years in Healthcare IT ** and held positions as a Developer, Business/Technical Analyst, Team Lead, Project/Program Manager and Environment Architect.  I have experience with numerous EMR's including Epic, Cerner, Lastword, PCIS and others. 
+- I am extremely knowledgeable with the Inpatient and Outpatient workflows of Healthcare systems.  Including Transcription, Lab, Rad, Pathology and Billing.  But not limited to those modalities.
+- I have Real-World technical experience in healthcare applications and integrations at the enterprise level. 
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I enjoy working within a <b>TEAM environment</b> **to get things done!** I'll be happy to meet you!</b> :blush:</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I enjoy working within a TEAM environment ** to get things done! ** I'll be happy to meet you!</b> :blush:</em>
 
 <!-- Your badges -->
 ![linkedin](https://www.linkedin.com/in/robert-lembke/)
-
+![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fshields.io%2Ftwitter%2Fhttps%3A%2F%2Fwww.twitter.com%2Fboblembke1)
 
 ### 💼  Things that I'm currently working on: 
 * Front-End Web:computer: Development
@@ -72,6 +76,11 @@ I have Real-world technical experience in healthcare applications and integratio
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 
+[![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=krakensd)](https://github.com/krakensd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krakensd)](https://github.com/krakensd/github-readme-stats)
+
+
+
 
 
 
@@ -83,7 +92,8 @@ I have Real-world technical experience in healthcare applications and integratio
 ![Cerner](https://img.shields.io/badge/Cerner-Cerner-green)
 ![Mysis Lab](https://img.shields.io/badge/Mysys%20Lab-Lab-brightgreen)
 ![eGate](https://img.shields.io/badge/eGate-Integration-red)
-![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fshields.io%2Ftwitter%2Fhttps%3A%2F%2Fwww.twitter.com%2Fboblembke1)
+![Twitter](https://img.shields.io/badge/dynamic/json?url=<https://www.Twittercom>&label=<TwitterL>&query=<$.DATA.SUBDATA>&color=<Red>&prefix=<PREFIX>&suffix=<SUFFIX>)
+
 
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
 
