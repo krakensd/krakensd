@@ -15,9 +15,9 @@
 
 <!-- Your badges -->
 Please contact me with any of the below:
-- ![Linkedin](https://www.linkedin.com/in/robert-lembke/)
-- ![Twitter](https://www.twitter.com/BobLembke1)
-- ![e-Mail](robertmlembke@gmail.com)
+- ![Linkedin] https://www.linkedin.com/in/robert-lembke/
+- ![Twitter] https://www.twitter.com/BobLembke1
+- ![e-Mail] (robertmlembke@gmail.com)
 
 ### 💼  Things that I'm currently working on: 
 * Full MERN Stack:computer: Development
