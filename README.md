@@ -3,9 +3,9 @@
 
 <!--Introduction -->
 ## Hi, I am Bob Lembke      
-- I'm a **Full Stack Developer**: looking to solve Real-World problems in a team environment:earth_asia:. 
-- I have over ** 17 years of experience </b> in Healthcare IT. Strategically minded, purposeful experienced leader – solid record driving major digital transformation initiatives. 
-- I have held positions as a Team Lead, Project/Program Manager, Integration Developer, Business/Technical Analyst, and Environment Architect.  I have experience with numerous EMR's including Epic, Cerner, Lastword, PCIS and others. 
+- I'm a **Full Stack Developer**: looking to solve Real-World problems in a team environment. 
+- I have over **17 years of experience** in Healthcare IT. Strategically minded, purposeful experienced leader – solid record driving major digital transformation initiatives. 
+- I have held positions as a Team Lead, Project/Program Manager, Integration Developer, Business/Technical Analyst, and Environment Architect.  I have experience with numerous EMR's including Epic, Cerner, Meditech and others. 
 - I am extremely knowledgeable with the Inpatient and Outpatient workflows of Healthcare systems.  Including Transcription, Lab, Rad, Pathology and Billing.  But not limited to those modalities.
 - I have exceptional technical experience in healthcare applications and integrations at the enterprise level. 
 <br>
@@ -19,6 +19,7 @@ Please contact me with any of the below:
 - Twitter - https://www.twitter.com/BobLembke1
 - e-Mail - robertmlembke@gmail.com
 
+ 
 ### 💼  Things that I'm currently working on: 
 * Full MERN Stack:computer: Development
 * Python/Django/MongodB
@@ -27,6 +28,7 @@ Please contact me with any of the below:
 * PostgreSQL
 * Expanding my knowledge with distance learning at Udacity
 
+ 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -81,7 +83,6 @@ Please contact me with any of the below:
 ![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-
 
  
 [![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=krakensd)](https://github.com/krakensd/github-readme-stats)
