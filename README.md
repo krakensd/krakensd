@@ -107,9 +107,7 @@ Please contact me with any of the below:
 ![Worx](https://img.shields.io/badge/Worx-Pharmacy-yellowgreen)
 ![GE PACS](https://img.shields.io/badge/GE%20(PACS)-Radiology-blue)
 ![GE](https://img.shields.io/badge/GE%20(PACS)-Radiology-blue)
-![PCIS](https://img.shields.io/badge/PCIS-EMR-red)
-
-                                                          
+![PCIS](https://img.shields.io/badge/PCIS-EMR-red)                                                       
                                                           
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
  
