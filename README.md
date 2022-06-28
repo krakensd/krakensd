@@ -7,7 +7,8 @@
 - I have over **17 years of experience** in Healthcare IT. Strategically minded, purposeful experienced leader – solid record driving major digital transformation initiatives. 
 - I have held positions as a Team Lead, Project/Program Manager, Integration Developer, Business/Technical Analyst, and Environment Architect.  I have experience with numerous EMR's including Epic, Cerner, Meditech and others. 
 - I am extremely knowledgeable with the Inpatient and Outpatient workflows of Healthcare systems.  Including Transcription, Lab, Rad, Pathology and Billing.  But not limited to those modalities.
-- I have exceptional technical experience in healthcare applications and integrations at the enterprise level. 
+- I have exceptional technical experience in healthcare applications and integrations at the enterprise level.
+- I was a Marine Corps Officer and decorated Combat Veteran
 <br>
 <br>
 <br>
