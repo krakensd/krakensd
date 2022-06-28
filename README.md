@@ -22,9 +22,9 @@ Please contact me with any of the below:
 ### 💼  Things that I'm currently working on: 
 * Full MERN Stack:computer: Development
 * Python/Django/MongodB
-*
+* JS
 * React.js
-*
+* PostgreSQL
 * Expanding my knowledge with distance learning at Udacity
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -84,41 +84,35 @@ Please contact me with any of the below:
 
 
  
- ##GitHub Stats
 [![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=krakensd)](https://github.com/krakensd/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krakensd)](https://github.com/krakensd/github-readme-stats)
-
-
-
-
-
-
-### Healthcare
-
-
-![EPIC](https://img.shields.io/badge/<EPIC>-<EMR>-<GREEN)
+ 
+ 
+ ## Healthcare  
 ![Sutter Health](https://img.shields.io/badge/Sutter%20Health-Sutter%20Health-blue)
+![EPIC](https://img.shields.io/badge/EPIC-EHR-blue)
 ![Cerner](https://img.shields.io/badge/Cerner-Cerner-green)
 ![Mysis Lab](https://img.shields.io/badge/Mysys%20Lab-Lab-brightgreen)
 ![eGate](https://img.shields.io/badge/eGate-Integration-red)
 ![McKesson](https://img.shields.io/badge/McKesson-McKesson-brightgreen)
+![Meditech](https://img.shields.io/badge/Meditech-EMR-red)
+![Allscripts](https://img.shields.io/badge/Allscripts-Transcription-orange)
+![Pyxis](https://img.shields.io/badge/Pyxis-Lab-yellowgreen)                                                         
+![Quest](https://img.shields.io/badge/Quest-Lab-yellowgreen)                                    
+![MS4](https://img.shields.io/badge/MS4-EMR-blue)             
+![Axway](https://img.shields.io/badge/Axway-Axway-blue)                                              
+![EMPI](https://img.shields.io/badge/EMPI-Patient%20Index-orange)                                             
+![HL7](https://img.shields.io/badge/HL7-HL7-yellowgreen)                                          
+![Cloverleaf](https://img.shields.io/badge/Cloverleaf-EMR-yellowgreen)                                                          
+![Worx](https://img.shields.io/badge/Worx-Pharmacy-yellowgreen)
 ![GE PACS](https://img.shields.io/badge/GE%20(PACS)-Radiology-blue)
 ![GE](https://img.shields.io/badge/GE%20(PACS)-Radiology-blue)
 ![PCIS](https://img.shields.io/badge/PCIS-EMR-red)
-![Meditech](https://img.shields.io/badge/Meditech-EMR-red)
-![Allscripts](https://img.shields.io/badge/Allscripts-Transcription-orange)
-![Pyxis](https://img.shields.io/badge/Pyxis-Lab-yellowgreen)                                                          
-![Quest[](https://img.shields.io/badge/Quest-Lab-yellowgreen)                                                          
-![MS4](https://img.shields.io/badge/MS4-EMR-blue)                                                          
-![Axway](https://img.shields.io/badge/Axway-Axway-blue)                                                          
-![EMPI](https://img.shields.io/badge/EMPI-Patient%20Index-orange)                                                          
-![HL7](https://img.shields.io/badge/HL7-HL7-yellowgreen)                                                          
-![Cloverleaf](https://img.shields.io/badge/Cloverleaf-EMR-yellowgreen)                                                          
-![Worx](https://img.shields.io/badge/Worx-Pharmacy-yellowgreen)
+
                                                           
                                                           
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
-
+ 
 :star: From [Robert M Lembke](robertmlembke@gmail.com)
 
 
