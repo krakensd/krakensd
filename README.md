@@ -27,7 +27,7 @@ Please contact me with any of the below:
 * JS
 * React.js
 * PostgreSQL
-* Expanding my knowledge with distance learning at Udacity
+* Expanding my knowledge with distance learning at Udacity and Coursera
 
  
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
