@@ -7,7 +7,7 @@
 - I have over ** 17 years of experience </b> in Healthcare IT. Strategically minded, purposeful experienced leader – solid record driving major digital transformation initiatives. 
 - I have held positions as a Team Lead, Project/Program Manager, Integration Developer, Business/Technical Analyst, and Environment Architect.  I have experience with numerous EMR's including Epic, Cerner, Lastword, PCIS and others. 
 - I am extremely knowledgeable with the Inpatient and Outpatient workflows of Healthcare systems.  Including Transcription, Lab, Rad, Pathology and Billing.  But not limited to those modalities.
-- I have Real-World technical experience in healthcare applications and integrations at the enterprise level. 
+- I have exceptional technical experience in healthcare applications and integrations at the enterprise level. 
 <br>
 <br>
 <br>
@@ -97,21 +97,21 @@ Please contact me with any of the below:
 ![McKesson](https://img.shields.io/badge/McKesson-McKesson-brightgreen)
 ![Meditech](https://img.shields.io/badge/Meditech-EMR-red)
 ![Allscripts](https://img.shields.io/badge/Allscripts-Transcription-orange)
-![Pyxis](https://img.shields.io/badge/Pyxis-Lab-yellowgreen)                                                         
-![Quest](https://img.shields.io/badge/Quest-Lab-yellowgreen)                                    
-![MS4](https://img.shields.io/badge/MS4-EMR-blue)             
-![Axway](https://img.shields.io/badge/Axway-Axway-blue)                                              
-![EMPI](https://img.shields.io/badge/EMPI-Patient%20Index-orange)                                             
-![HL7](https://img.shields.io/badge/HL7-HL7-yellowgreen)                                          
-![Cloverleaf](https://img.shields.io/badge/Cloverleaf-EMR-yellowgreen)                                                          
+![Pyxis](https://img.shields.io/badge/Pyxis-Lab-yellowgreen)
+![Quest](https://img.shields.io/badge/Quest-Lab-yellowgreen)
+![MS4](https://img.shields.io/badge/MS4-EMR-blue)
+![Axway](https://img.shields.io/badge/Axway-Axway-blue)
+![EMPI](https://img.shields.io/badge/EMPI-Patient%20Index-orange)
+![HL7](https://img.shields.io/badge/HL7-HL7-yellowgreen)
+![Cloverleaf](https://img.shields.io/badge/Cloverleaf-EMR-yellowgreen)
 ![Worx](https://img.shields.io/badge/Worx-Pharmacy-yellowgreen)
 ![GE PACS](https://img.shields.io/badge/GE%20(PACS)-Radiology-blue)
 ![GE](https://img.shields.io/badge/GE%20(PACS)-Radiology-blue)
-![PCIS](https://img.shields.io/badge/PCIS-EMR-red)                                                       
+
                                                           
-<h4 align="center"> Thanks for Visiting! :innocent:</h4>
+
  
-:star: From [Robert M Lembke](robertmlembke@gmail.com)
+:star: From [Robert M Lembke](robertmlembke@gmail.com)   <h4 align="center"> Thanks for Visiting! :innocent:</h4>
 
 
 <!-- Credit -->
